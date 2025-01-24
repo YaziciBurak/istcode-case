@@ -1,0 +1,560 @@
+[
+  {
+    "id": "1",
+    "title": "Rönesans Sanatı",
+    "description": "Rönesans Sanatı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "2",
+    "title": "Newton'un Hareket Yasaları",
+    "description": "Newton'un Hareket Yasaları hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "3",
+    "title": "Yapay Zekanın Geleceği",
+    "description": "Yapay Zekanın Geleceği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "4",
+    "title": "Nietzsche ve Üstinsan",
+    "description": "Nietzsche ve Üstinsan hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "5",
+    "title": "Modern Heykel Sanatı",
+    "description": "Modern Heykel Sanatı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "6",
+    "title": "Kuantum Fiziği Temelleri",
+    "description": "Kuantum Fiziği Temelleri hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "7",
+    "title": "Blockchain Teknolojisi",
+    "description": "Blockchain Teknolojisi hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "8",
+    "title": "Platon'un İdealar Kuramı",
+    "description": "Platon'un İdealar Kuramı hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "9",
+    "title": "Sanat ve Toplum",
+    "description": "Sanat ve Toplum hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "10",
+    "title": "Genetik Mühendisliği",
+    "description": "Genetik Mühendisliği hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "11",
+    "title": "Robotik Sistemler",
+    "description": "Robotik Sistemler hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "12",
+    "title": "Stoacı Felsefe",
+    "description": "Stoacı Felsefe hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "13",
+    "title": "Klasik Resim Teknikleri",
+    "description": "Klasik Resim Teknikleri hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "14",
+    "title": "Evrim Teorisi",
+    "description": "Evrim Teorisi hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "15",
+    "title": "Yazılım Mühendisliği",
+    "description": "Yazılım Mühendisliği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "16",
+    "title": "Kant'ın Ahlak Felsefesi",
+    "description": "Kant'ın Ahlak Felsefesi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "17",
+    "title": "Postmodern Sanat",
+    "description": "Postmodern Sanat hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "18",
+    "title": "Astronomi Temelleri",
+    "description": "Astronomi Temelleri hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "19",
+    "title": "Siber Güvenlik",
+    "description": "Siber Güvenlik hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "20",
+    "title": "Hegel ve Diyalektik",
+    "description": "Hegel ve Diyalektik hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "21",
+    "title": "Soyut Sanatın Anlamı",
+    "description": "Soyut Sanatın Anlamı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "22",
+    "title": "Biyoteknolojide Yenilikler",
+    "description": "Biyoteknolojide Yenilikler hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "23",
+    "title": "5G Teknolojisi ve Gelecek",
+    "description": "5G Teknolojisi ve Gelecek hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "24",
+    "title": "Felsefi Paradokslar",
+    "description": "Felsefi Paradokslar hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "25",
+    "title": "Barok Dönemi Sanatı",
+    "description": "Barok Dönemi Sanatı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "26",
+    "title": "Fizikte Görelilik Kuramı",
+    "description": "Fizikte Görelilik Kuramı hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "27",
+    "title": "Akıllı Şehir Teknolojileri",
+    "description": "Akıllı Şehir Teknolojileri hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "28",
+    "title": "Dil Felsefesi",
+    "description": "Dil Felsefesi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "29",
+    "title": "Empresyonist Akım",
+    "description": "Empresyonist Akım hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "30",
+    "title": "Kozmoloji ve Evrenin Başlangıcı",
+    "description": "Kozmoloji ve Evrenin Başlangıcı hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "31",
+    "title": "Otonom Araç Sistemleri",
+    "description": "Otonom Araç Sistemleri hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "32",
+    "title": "Varoluşçu Felsefe",
+    "description": "Varoluşçu Felsefe hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "33",
+    "title": "Kübizm ve Picasso",
+    "description": "Kübizm ve Picasso hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "34",
+    "title": "Kimya ve Hayat",
+    "description": "Kimya ve Hayat hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "35",
+    "title": "Yapay Zeka Etiği",
+    "description": "Yapay Zeka Etiği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "36",
+    "title": "Ahlak ve Erdem Tartışmaları",
+    "description": "Ahlak ve Erdem Tartışmaları hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "37",
+    "title": "Minyatür Sanatı",
+    "description": "Minyatür Sanatı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "38",
+    "title": "Nükleer Fizik Temelleri",
+    "description": "Nükleer Fizik Temelleri hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "39",
+    "title": "Sanal Gerçeklik",
+    "description": "Sanal Gerçeklik hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "40",
+    "title": "Platon ve Devlet",
+    "description": "Platon ve Devlet hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "41",
+    "title": "Gotik Mimari",
+    "description": "Gotik Mimari hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "42",
+    "title": "Termodinamik İlkeleri",
+    "description": "Termodinamik İlkeleri hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "43",
+    "title": "Bulut Bilişim Teknolojisi",
+    "description": "Bulut Bilişim Teknolojisi hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "44",
+    "title": "Epistemoloji ve Bilgi",
+    "description": "Epistemoloji ve Bilgi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "45",
+    "title": "Renk Teorisi",
+    "description": "Renk Teorisi hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "46",
+    "title": "Biyolojik Evrim",
+    "description": "Biyolojik Evrim hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "47",
+    "title": "İnternetin Geleceği",
+    "description": "İnternetin Geleceği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "48",
+    "title": "Postmodern Felsefe",
+    "description": "Postmodern Felsefe hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "49",
+    "title": "Ressamlık ve Duygu",
+    "description": "Ressamlık ve Duygu hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "50",
+    "title": "Kuantum Mekaniği",
+    "description": "Kuantum Mekaniği hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "51",
+    "title": "Yazılım Güvenliği",
+    "description": "Yazılım Güvenliği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "52",
+    "title": "Metafizik Sorular",
+    "description": "Metafizik Sorular hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "53",
+    "title": "Fotoğrafçılık Teknikleri",
+    "description": "Fotoğrafçılık Teknikleri hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "54",
+    "title": "Bilimsel Devrimler",
+    "description": "Bilimsel Devrimler hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "55",
+    "title": "Veri Analitiği",
+    "description": "Veri Analitiği hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "56",
+    "title": "Felsefi Aşkınlık",
+    "description": "Felsefi Aşkınlık hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "57",
+    "title": "Heykelde Modernizm",
+    "description": "Heykelde Modernizm hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "58",
+    "title": "Mikrobiyoloji",
+    "description": "Mikrobiyoloji hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "59",
+    "title": "Yapay Sinir Ağları",
+    "description": "Yapay Sinir Ağları hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "60",
+    "title": "Anlam Felsefesi",
+    "description": "Anlam Felsefesi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "61",
+    "title": "Soyut Ekspresyonizm",
+    "description": "Soyut Ekspresyonizm hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "62",
+    "title": "Çevre Bilimi",
+    "description": "Çevre Bilimi hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "63",
+    "title": "Giyilebilir Teknolojiler",
+    "description": "Giyilebilir Teknolojiler hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "64",
+    "title": "Zihin ve Madde",
+    "description": "Zihin ve Madde hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "65",
+    "title": "Dadaizm ve Sanat",
+    "description": "Dadaizm ve Sanat hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "66",
+    "title": "Astrofizik",
+    "description": "Astrofizik hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "67",
+    "title": "Akıllı Ev Sistemleri",
+    "description": "Akıllı Ev Sistemleri hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "68",
+    "title": "Felsefi Materyalizm",
+    "description": "Felsefi Materyalizm hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "69",
+    "title": "Klasik Heykel Sanatı",
+    "description": "Klasik Heykel Sanatı hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "70",
+    "title": "Bilgi Teorisi",
+    "description": "Bilgi Teorisi hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "71",
+    "title": "Uzay Teknolojileri",
+    "description": "Uzay Teknolojileri hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "72",
+    "title": "Tarihsel Materyalizm",
+    "description": "Tarihsel Materyalizm hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "73",
+    "title": "Modern Sanatın Yükselişi",
+    "description": "Modern Sanatın Yükselişi hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "74",
+    "title": "Nanoteknoloji",
+    "description": "Nanoteknoloji hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "75",
+    "title": "Düşüncenin Kökeni",
+    "description": "Düşüncenin Kökeni hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "76",
+    "title": "Minimalist Sanat",
+    "description": "Minimalist Sanat hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "77",
+    "title": "Astrobiyoloji",
+    "description": "Astrobiyoloji hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "78",
+    "title": "Dijital Güvenlik",
+    "description": "Dijital Güvenlik hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "79",
+    "title": "Ahlak Felsefesi",
+    "description": "Ahlak Felsefesi hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "80",
+    "title": "İzlenimcilik ve Doğa",
+    "description": "İzlenimcilik ve Doğa hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "81",
+    "title": "Bilim ve Toplum",
+    "description": "Bilim ve Toplum hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "82",
+    "title": "Gelişmiş Yapay Zeka Sistemleri",
+    "description": "Gelişmiş Yapay Zeka Sistemleri hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "83",
+    "title": "Antik Felsefenin Temelleri",
+    "description": "Antik Felsefenin Temelleri hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "84",
+    "title": "Rönesans Heykelleri",
+    "description": "Rönesans Heykelleri hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "85",
+    "title": "Hücre Biyolojisi",
+    "description": "Hücre Biyolojisi hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "86",
+    "title": "Makine Öğrenimi",
+    "description": "Makine Öğrenimi hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "87",
+    "title": "Kıta Felsefesi",
+    "description": "Kıta Felsefesi hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "88",
+    "title": "Barok Dönemi",
+    "description": "Barok Dönemi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "89",
+    "title": "Enerji ve Fizik",
+    "description": "Enerji ve Fizik hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  },
+  {
+    "id": "90",
+    "title": "Bilgi Güvenliği",
+    "description": "Bilgi Güvenliği hakkında detaylı bilgi ve analiz.",
+    "category": "bilim"
+  },
+  {
+    "id": "91",
+    "title": "Anlam ve Gerçeklik",
+    "description": "Anlam ve Gerçeklik hakkında detaylı bilgi ve analiz.",
+    "category": "teknoloji"
+  },
+  {
+    "id": "92",
+    "title": "Sanat Tarihi",
+    "description": "Sanat Tarihi hakkında detaylı bilgi ve analiz.",
+    "category": "felsefe"
+  },
+  {
+    "id": "93",
+    "title": "Bilimsel Araştırma Yöntemleri",
+    "description": "Bilimsel Araştırma Yöntemleri hakkında detaylı bilgi ve analiz.",
+    "category": "sanat"
+  }
+]
