@@ -8,6 +8,9 @@ const nextConfig = {
         });
         return config;
     },
+    images: {
+        domains: ['picsum.photos'],
+    },
 }
 
 export default nextConfig

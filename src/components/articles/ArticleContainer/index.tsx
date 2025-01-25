@@ -7,7 +7,7 @@ import { ArticleContainerProps } from '@/lib/props'
 
 export function ArticleContainer({ articles, categories }: ArticleContainerProps) {
     const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
-    const [searchTerm, setSerchTerms] = useState('')
+    const [searchTerm, setSearchTerm] = useState('')
 
     const filteredArticles = articles.filter(article => {
         const categoryMatch = selectedCategory ? article.category === selectedCategory : true
@@ -24,7 +24,7 @@ export function ArticleContainer({ articles, categories }: ArticleContainerProps
                 selectedCategory={selectedCategory}
                 onCategorySelect={setSelectedCategory}
                 searchTerm={searchTerm}
-                onSearch={setSerchTerms}
+                onSearch={setSearchTerm}
             />
             <ArticleGrid articles={filteredArticles} />
         </>
