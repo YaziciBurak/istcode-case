@@ -2,7 +2,7 @@
 
 Modern ve kullanıcı dostu bir blog platformu. Next.js 14, TypeScript ve Tailwind CSS kullanılarak geliştirilmiştir.
 
-🌐 [Canlı Demo](https://yazici-blog.vercel.app/)
+🌐 [Canlı Demo](https://istcode-case.vercel.app)
 
 ## 🚀 Özellikler
 
