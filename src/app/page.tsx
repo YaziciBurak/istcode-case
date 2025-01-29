@@ -14,7 +14,6 @@ export default async function Home() {
   return (
     <>
       <main className="min-h-screen bg-gradient-to-b from-gray-50 to-white">
-        {/* Hero Section */}
         <div className="bg-gradient-radial from-primary-50 to-white">
           <div className="max-w-7xl mx-auto px-4 py-12">
             <div className="bg-white/70 backdrop-blur-md rounded-2xl shadow-xl p-8 border border-gray-100">
@@ -35,7 +34,6 @@ export default async function Home() {
           </div>
         </div>
 
-        {/* Content Section */}
         <div className="max-w-7xl mx-auto px-4 -mt-8">
           <div className="bg-white/70 backdrop-blur-md rounded-2xl shadow-xl border border-gray-100">
             <ArticleContainer articles={articles} categories={categories} />
